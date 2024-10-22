@@ -1,0 +1,227 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "name": "Graphic T-Shirts",
+      "description": "A comfortable, soft cotton white t-shirt perfect for any occasion.",
+      "image": "https://media.istockphoto.com/id/1266994869/photo/we-customize-literally-everything-whatever-you-want-we-will-fulfill-it.webp?a=1&b=1&s=612x612&w=0&k=20&c=t6iCKpQh4SmNoaykBCxirAC-jKNzRA-38SfVDC1_8aY=",
+      "price": 499,
+      "stock": 100,
+      "category": "Apparel"
+    },
+    {
+      "id": "p002",
+      "name": "Slim Fit Jeans",
+      "description": "Denim slim fit jeans with a sleek, modern cut for everyday wear.",
+      "image": "https://plus.unsplash.com/premium_photo-1673977134363-c86a9d5dcafa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2xpbSUyMGZpdCUyMGplYW5zfGVufDB8fDB8fHww",
+      "price": 1499,
+      "stock": 50,
+      "category": "Apparel"
+    },
+    {
+      "id": "p003",
+      "name": "Running Shoes",
+      "description": "Lightweight and durable running shoes designed for high performance.",
+      "image": "https://media.istockphoto.com/id/1478466587/photo/legs-two-male-runners-running-city-marathon-race-athletes-jogging-on-asphalt-road-summer.webp?a=1&b=1&s=612x612&w=0&k=20&c=OhnRzpzf627CCu1S-Ja7ICV9FMO91HzbkFO7L7m3YPk=",
+      "price": 1999,
+      "stock": 75,
+      "category": "Footwear"
+    },
+    {
+      "id": "p004",
+      "name": "Leather Jacket",
+      "description": "Stylish leather jacket, perfect for a sleek and edgy look.",
+      "image": "https://images.unsplash.com/photo-1511280303142-0051e93baeeb?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 3999,
+      "stock": 20,
+      "category": "Apparel"
+    },
+    {
+      "id": "p005",
+      "name": "Sneakers",
+      "description": "Classic low-top sneakers with a minimalist design.",
+      "image": "https://images.unsplash.com/photo-1529085216271-4f5b495a450b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmlrZSUyMHNuZWFrZXJ8ZW58MHx8MHx8fDA%3D",
+      "price": 1299,
+      "stock": 60,
+      "category": "Footwear"
+    },
+    {
+      "id": "p006",
+      "name": "Floral Summer Dress",
+      "description": "A light and breezy floral summer dress, ideal for warm days.",
+      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RmxvcmFsJTIwU3VtbWVyJTIwRHJlc3N8ZW58MHx8MHx8fDA%3D",
+      "price": 899,
+      "stock": 40,
+      "category": "Apparel"
+    },
+    {
+      "id": "p007",
+      "name": "Basketball Shoes",
+      "description": "High-top basketball shoes designed for maximum grip and support.",
+      "image": "https://images.unsplash.com/photo-1659927386877-55d8bd8d6913?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEJhc2tldGJhbGwlMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+      "price": 2599,
+      "stock": 30,
+      "category": "Footwear"
+    },
+    {
+      "id": "p008",
+      "name": "Wool Scarf",
+      "description": "Soft wool scarf to keep you warm during the cold seasons.",
+      "image": "https://images.unsplash.com/photo-1678801868975-32786ae5aeeb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d29vbCUyMHNjYXJmfGVufDB8fDB8fHww",
+      "price": 399,
+      "stock": 150,
+      "category": "Accessories"
+    },
+    {
+      "id": "p009",
+      "name": "Casual Sneakers",
+      "description": "Comfortable everyday sneakers with a stylish design.",
+      "image": "https://media.istockphoto.com/id/155033864/photo/feet-up-w-sport-shoes-against-blue-sky-copy-space.webp?a=1&b=1&s=612x612&w=0&k=20&c=MXlGZuZTk1RrG0-ZFZhhlGU4YocJg5Wzqzny7Adr3RE=",
+      "price": 1199,
+      "stock": 80,
+      "category": "Footwear"
+    },
+    {
+      "id": "p010",
+      "name": "Denim Jacket",
+      "description": "Classic denim jacket for a versatile and timeless look.",
+      "image": "https://media.istockphoto.com/id/1349960077/photo/rocking-denim-wear.webp?a=1&b=1&s=612x612&w=0&k=20&c=iVux2-NqF3u3_G0fna0i4cVNLR0-RYTk88lB7UI33t0=",
+      "price": 1999,
+      "stock": 45,
+      "category": "Apparel"
+    },
+    {
+      "id": "p011",
+      "name": "Formal Blazer",
+      "description": "Sharp and professional formal blazer for office wear.",
+      "image": "https://images.unsplash.com/photo-1515736076039-a3ca66043b27?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGZvcm1hbCUyMGJsYXp6ZXJ8ZW58MHx8MHx8fDA%3D",
+      "price": 2999,
+      "stock": 25,
+      "category": "Apparel"
+    },
+    {
+      "id": "p012",
+      "name": "High Heels",
+      "description": "Elegant high heels to complement any evening outfit.",
+      "image": "https://images.unsplash.com/photo-1457972899686-77aec5e247ce?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGlnaCUyMGhlZWxzfGVufDB8fDB8fHww",
+      "price": 1599,
+      "stock": 35,
+      "category": "Footwear"
+    },
+    {
+      "id": "p013",
+      "name": "Graphic Hoodie",
+      "description": "Comfortable hoodie with a stylish graphic design.",
+      "image": "https://images.unsplash.com/photo-1516705346105-1604914311cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGdyYXBoaWMlMjBob29kaWV8ZW58MHx8MHx8fDA%3D",
+      "price": 1299,
+      "stock": 70,
+      "category": "Apparel"
+    },
+    {
+      "id": "p014",
+      "name": "Leather Boots",
+      "description": "Rugged leather boots designed for durability and comfort.",
+      "image": "https://images.unsplash.com/photo-1599012307605-23a0ebe4d321?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGVhdGhlciUyMGJvb3RzfGVufDB8fDB8fHww",
+      "price": 3499,
+      "stock": 25,
+      "category": "Footwear"
+    },
+    {
+      "id": "p015",
+      "name": "Wool Beanie",
+      "description": "Cozy wool beanie to keep you warm during winter.",
+      "image": "https://images.unsplash.com/photo-1473425940450-bdac1e605495?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8V29vbCUyMEJlYW5pZXxlbnwwfHwwfHx8MA%3D%3D",
+      "price": 299,
+      "stock": 120,
+      "category": "Accessories"
+    },
+    {
+      "id": "p016",
+      "name": "Ankle Boots",
+      "description": "Stylish ankle boots perfect for both casual and formal outfits.",
+      "image": "https://plus.unsplash.com/premium_photo-1728664900998-c2abded762ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YW5rbGUlMjBib290c3xlbnwwfHwwfHx8MA%3D%3D",
+      "price": 2299,
+      "stock": 55,
+      "category": "Footwear"
+    },
+    {
+      "id": "p017",
+      "name": "Winter Coat",
+      "description": "Warm winter coat designed for maximum comfort in cold weather.",
+      "image": "https://images.unsplash.com/photo-1712475842127-a0c14d0879f6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ludGVyY29hdHN8ZW58MHx8MHx8fDA%3D",
+      "price": 4499,
+      "stock": 15,
+      "category": "Apparel"
+    },
+    {
+      "id": "p018",
+      "name": "Leather Belt",
+      "description": "A sleek and durable leather belt to complete your look.",
+      "image": "https://media.istockphoto.com/id/1852670700/photo/set-of-leather-elements-isolated-on-white-background-collection-of-belt-of-black-and-brown.webp?a=1&b=1&s=612x612&w=0&k=20&c=j8CMNwJAUZFTkPx3y1fgwgEgd3LtuXdolNgak-kKvnU=",
+      "price": 499,
+      "stock": 200,
+      "category": "Accessories"
+    }
+  ],
+
+  "users": [
+    {
+      "id": "u001",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "encrypted_password_1",
+      "phone": "+91-9876543210",
+      "address": "123 Main St, Mumbai, Maharashtra",
+      "orderHistory": [
+        {
+          "orderId": "o001",
+          "productId": "p001",
+          "quantity": 2,
+          "date": "2024-10-01",
+          "status": "Delivered"
+        },
+        {
+          "orderId": "o002",
+          "productId": "p003",
+          "quantity": 1,
+          "date": "2024-10-10",
+          "status": "In Transit"
+        }
+      ]
+    },
+    {
+      "id": "u002",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "encrypted_password_2",
+      "phone": "+91-8765432109",
+      "address": "456 Market St, Delhi",
+      "orderHistory": [
+        {
+          "orderId": "o003",
+          "productId": "p002",
+          "quantity": 1,
+          "date": "2024-10-05",
+          "status": "Delivered"
+        }
+      ]
+    },
+    {
+      "id": "u003",
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "password": "encrypted_password_3",
+      "phone": "+91-7654321098",
+      "address": "789 Lakeshore Blvd, Bangalore",
+      "orderHistory": [
+        {
+          "orderId": "o004",
+          "productId": "p001",
+          "quantity": 3,
+          "date": "2024-10-08",
+          "status": "Delivered"
+        }
+      ]
+    }
+  ]
+}
